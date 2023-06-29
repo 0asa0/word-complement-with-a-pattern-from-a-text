@@ -20,6 +20,7 @@ Output: Polly
  
  Solly
 
+ 
  Input: *ed
  
  Output: called
